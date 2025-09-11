@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, meu nome é Cayo.<br>Sou estudante de Sistemas para Internet na UNICAP.<br>Atualmente, estou me dedicando nos estudos em Java!
 
 
