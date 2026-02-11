@@ -4,21 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barbearia</title>
+
+    <style>
+       @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,700;1,100;1,800;1,900&display=swap');
+
+        body{
+            background: #5930fc;
+            background: linear-gradient(90deg, rgba(89, 48, 252, 1) 0%, rgba(47, 44, 222, 1) 50%, rgba(2, 0, 120, 1) 100%, rgba(20, 17, 158, 1) 100%);
+            counter-reset: section;
+            margin: 0px;
+            padding: 0;
+            font-family: "Poppins", sans-serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+        .conteiner{
+            background-color: white;
+            border-radius: 12px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            
+        }
+
+        .formulario{
+            font-family: "Poppins", sans-serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+        
+    </style>
 </head>
 <body>
 
     <header></header>
     <main>
-        <form>
-            <label for="fname">Primeiro nome</label>
-            <input type="text">
 
-            <br> <br>
+        <div class="conteiner">
 
-            <label for="sname">Sobrenome</label>
-            <input type="text">
+                <form>
+                    <label for="fname">Primeiro nome</label>
+                    <input type="text">
 
-        </form>
+                    <br> <br>
+
+                    <label for="sname">Sobrenome</label>
+                    <input type="text">
+
+                    <br> <br>
+
+                    <label for="number">Número</label>
+                    <input type="text">
+
+                    <br><br>
+
+                    <label for="hour">Horário</label>
+                    <input type="text">
+
+                </form>
+        </div>    
     </main>
     <footer></footer>
     
