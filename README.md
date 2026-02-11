@@ -1,1 +1,1 @@
-Landing page moderna e elegante para barbearia, desenvolvida com foco em design sofisticado, responsividade e experiência do usuário. O Navalha Fina é um projeto front-end criado para simular o site oficial de uma barbearia premium.
+Landing page moderna e elegante para barbearia, desenvolvida com foco em design sofisticado, responsividade e experiência do usuário. Um projeto front-end criado para simular o site oficial de uma barbearia premium.
