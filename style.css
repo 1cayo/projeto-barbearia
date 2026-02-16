@@ -82,6 +82,8 @@ li a:hover{
     margin: 12px;
 }
 
+
+
 footer{
     text-align: center;
     padding-top: 50px;
@@ -94,6 +96,7 @@ footer{
 }
 
 button{
+    padding: 12px;
     font-size: 20px;
     background-color: white;
     font-family: "Poppins", sans-serif;
