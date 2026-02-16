@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,700;1,100;1,800;1,900&display=swap');
 
+*{
+    margin: 0;
+    padding: 0%;
+}
+
 body{
     background: #5930fc;
     background: linear-gradient(90deg, rgba(89, 48, 252, 1) 0%, rgba(47, 44, 222, 1) 50%, rgba(2, 0, 120, 1) 100%, rgba(20, 17, 158, 1) 100%);
