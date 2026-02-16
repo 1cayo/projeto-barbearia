@@ -82,7 +82,9 @@ li a:hover{
     margin: 12px;
 }
 
-
+.fotos:hover{
+    transform: scale(1.05);
+}
 
 footer{
     text-align: center;
